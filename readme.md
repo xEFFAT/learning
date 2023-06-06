@@ -1,6 +1,6 @@
 # This is Readme file for cybornlearning repo
 List of participants
-1.
+1. Lovepreet Singh understand pull request
 2.
 3.
 4.
