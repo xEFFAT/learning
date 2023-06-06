@@ -1,6 +1,6 @@
 # This is Readme file for cybornlearning repo
 List of participants
-1.prabhu shankar mc
+1.Prabhu Shankar M.C
 2.
 3.
 4.
