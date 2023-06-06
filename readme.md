@@ -5,4 +5,3 @@
 ## Adding a new line to branch 1214-edit-readme
 
 ### Title
-
