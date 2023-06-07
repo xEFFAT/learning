@@ -6,7 +6,7 @@ Participants:
 1. Prabhu Shankar M.C
 2. Poorv Kumar
 3. Sharon
-4. Lovepreet Singh understand pull request
+4. Lovepreet Singh
 5.
 6.
 7.
