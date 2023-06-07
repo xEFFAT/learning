@@ -1,9 +1,12 @@
-# This is Readme file for cybornlearning repo
-List of participants
-1. Lovepreet Singh understand pull request
-2.
-3.
-4.
+
+# Welcome to Cyborn Learning
+
+Participants:
+
+1. Prabhu Shankar M.C
+2. Poorv Kumar
+3. Sharon
+4. Lovepreet Singh understand pull request
 5.
 6.
 7.
@@ -16,3 +19,4 @@ List of participants
 14.
 15.
 16.
+17.
