@@ -1,5 +1,6 @@
-# This is Readme file for cybornlearning repo
-List of participants
+# Welcome to Cyborn Learning
+
+Participants:
 
 1. Prabhu Shankar M.C
 2. Poorv Kumar
